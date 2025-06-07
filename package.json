@@ -18,5 +18,4 @@
   "devDependencies": {
     "typescript": "^5.0.4"
   }
-}
-Add package.json
+}Fix package.json format
