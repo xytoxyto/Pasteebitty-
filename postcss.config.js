@@ -3,5 +3,4 @@ module.exports = {
     tailwindcss: {},
     autoprefixer: {},
   },
-}
-Add postcss.config.js
+};
